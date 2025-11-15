@@ -1,0 +1,178 @@
+/*satanas*/
+#satanas{
+    background:linear-gradient(to
+     right,
+    #6f0009 25%,
+    #7b0513 50%,
+    #931323 75%,
+    #9f192c 100%);
+}
+
+#satanas_libro{
+    margin-top: 100px;
+    position: absolute;
+}
+
+h1{
+    color:#ffffff;
+}
+
+p.box1{
+    width: 700px;
+    height: 150px;
+    padding: 20px;
+    font-style:italic;
+    background-color:#d42525;
+    color: #ffff;
+    border: 5px solid #ffffff; 
+}
+
+p.box2{
+    width: 700px;
+    height: 180px;
+    padding: 20px;
+    font-style:italic;
+    background-color:#d42525;
+    color: #ffff;
+    border: 5px solid #ffffff; 
+}
+
+p.box3{
+    font-style: italic;
+    color: #ffffff;
+}
+
+.imagen1{
+    position: relative;
+    left: 770px;
+    top: -285px;
+}
+
+.imagen2{
+    position: relative;
+    left: 510px;
+    top: -530px;
+    width: 50px;
+    height: 160px
+}
+
+button {
+    background-color: #6f0009;
+    color:white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+    transition:background 0.3s;
+}
+
+#Volver:hover {
+    background-color: #a01a1a;
+}
+ 
+/*cien años de soledad*/
+
+
+#cien {
+    background:linear-gradient(to
+     right,
+    #ddf886,
+    #fff52d);
+}
+#cienaneos_libro{
+    margin-top:115px;
+    position: absolute;
+    width: 1000px;
+   left:200px;
+    height: 470px;
+}
+
+p.h{
+    width: 700px;
+    height: 150px;
+    padding: 20px;
+    font-style:italic;
+    background-color:#bdecb6;
+    color: #000000;
+    border: 5px solid #2d572c; 
+}
+
+p.i{
+    width: 700px;
+    height: 180px;
+    padding: 20px;
+    font-style:italic;
+    background-color:#bdecb6;
+    color: #000000;
+    border: 5px solid #2d572c; 
+}
+
+p.j{
+    font-style: italic;
+    color: #2d572c;
+}
+
+.imagen1{
+    position: absolute;
+    left: 100px;
+    top: 500px;
+}
+
+.imagen2{
+   position: absolute;
+    left: 110px;
+    top: 530px;
+    width: 100px;
+    height: 260px;
+}
+ /*boulevard*/
+
+ #boulevard {
+    background:linear-gradient(to
+     right,
+    #49f7f7,
+    #42bff0,
+    #2e98ee,
+    #265df5);
+}
+
+
+p.b{
+    width: 700px;
+    height: 120px;
+    padding: 20px;
+    font-style:italic;
+    background-color:#a2cce9;
+    color: #000000;
+    border: 5px solid #0335bd; 
+}
+
+p.f{
+    width: 700px;
+    height: 100px;
+    padding: 20px;
+    font-style:italic;
+    background-color:#a2cce9;
+    color: #000000;
+    border: 5px solid #0335bd; 
+}
+
+p.m{
+    font-style: italic;
+    color: #0e1cdf;
+}
+
+.imagen1{
+    position: relative;
+    left: 770px;
+    top: -190px;
+}
+
+.imagen2{
+    position: relative;
+    left: 510px;
+    top: -530px;
+    width: 200px;
+    height: 260px
+}
